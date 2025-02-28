@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BLABLABLA\\Balz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|c:\\blablabla\\balz\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|C:\\BLABLABLA\\Balz\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|C:\\BLABLABLA\\Balz\\assets\\scripts\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|C:\\BLABLABLA\\Balz\\assets\\scripts\\praisetexteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\praisetexteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|C:\\BLABLABLA\\Balz\\assets\\scripts\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|C:\\BLABLABLA\\Balz\\assets\\scripts\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|C:\\BLABLABLA\\Balz\\assets\\scripts\\uibuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uibuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|C:\\BLABLABLA\\Balz\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D2068C-78C2-19CD-1EFC-EDED6D5BBA7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIButtonHandler.cs",
+              "DocumentMoniker": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\UIButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIButtonHandler.cs",
+              "ToolTip": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\UIButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIButtonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:27:54.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PraiseTextEffect.cs",
+              "DocumentMoniker": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\PraiseTextEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PraiseTextEffect.cs",
+              "ToolTip": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\PraiseTextEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PraiseTextEffect.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:13:35.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:32:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinishTrigger.cs",
+              "DocumentMoniker": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\FinishTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishTrigger.cs",
+              "ToolTip": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\FinishTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:40:33.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:28:21.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Star.cs",
+              "DocumentMoniker": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\Star.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Star.cs",
+              "ToolTip": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\Star.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Star.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wBsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:28:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BallController.cs",
+              "DocumentMoniker": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\BallController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallController.cs",
+              "ToolTip": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\BallController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:42:09.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\BLABLABLA\\Balz\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:41:57.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

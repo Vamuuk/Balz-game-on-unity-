@@ -143,8 +143,10 @@ public class GameManager : MonoBehaviour
         if (ballRigidbody != null)
             ballRigidbody.constraints = RigidbodyConstraints.None;
 
+        // Загружаем текущий уровень заново
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
+
 
     public void NextLevel()
     {

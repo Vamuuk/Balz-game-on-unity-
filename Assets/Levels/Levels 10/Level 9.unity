@@ -1988,7 +1988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7f986357a0b48747a0b533ef723d3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  totalStars: 10
+  totalStars: 12
   scoreText: {fileID: 650721109}
   scoreTextFinal: {fileID: 1182517875}
   finishPanel: {fileID: 1292366152}
